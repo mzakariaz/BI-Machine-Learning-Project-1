@@ -16,4 +16,5 @@ This project is my attempt at Project 1 of the Machine Learning Engineer interns
 * **<u>Libraries Used:</u>** **(TO BE COMPLETED)!**
 
 ## **Credits**
-**(TO BE COMPLETED)!**
+- https://www.kaggle.com/datasets/yasserh/housing-prices-dataset?resource=download
+- **(TO BE COMPLETED!)**
